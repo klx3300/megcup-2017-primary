@@ -1,6 +1,10 @@
 # megcup-2017-primary
 naive solution on 2017 megcup primary question
 
+## Author
+
+imzhwk(klx3300@github)
+
 ## dependencies
 
 Strangely modified *CImg* Library(can be found in qzwlecr/PassHatToDalao repository)
